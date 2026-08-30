@@ -1,0 +1,5 @@
+# dsh-github-review bundle patch
+# Receives GitHub webhook events for issues and spawns AI review agents
+
+- id: github-webhook
+  name: 'dsh-github-review'
